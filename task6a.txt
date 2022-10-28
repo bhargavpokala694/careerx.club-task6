@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        table, th, td {
+            border: 2px solid black
+        }
+        table {
+            color: red;
+        }
+        tbody {
+
+            color: blue;
+        }
+    </style>
+    <body>
+        <h1>STUDENT MARKS SHEET</h1>
+        <table style="width: 100%;">
+            <thead>
+        <tr>
+            <th>s no</th>
+            <th>sub name</th>
+            <th>sub MARKS</th>
+            <th>grade MARKS</th>
+        </tr></thead><br>
+        <tbody>
+        <tr>
+            <td>1</td>
+            <td>telugu</td>
+            <td>90</td>
+            <td>A</td>
+        </tr><br>
+        <tr>
+            <td>2</td>
+            <td>english</td>
+            <td>70</td>
+            <td>B</td>
+        </tr><br>
+        <tr>
+            <td>3</td>
+            <td>hindi</td>
+            <td>95</td>
+            <td>A</td>
+        </tr><br>
+        <tr>
+            <td>4</td>
+            <td>math</td>
+            <td>60</td>
+            <td>C</td>
+        </tr>
+            </tbody>
+        </table>
+        
+
+    </body>
+</html>    
